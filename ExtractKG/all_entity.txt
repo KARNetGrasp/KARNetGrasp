@@ -1,0 +1,42 @@
+food box
+sponge
+potato
+object
+shampoo
+stapler
+bottle
+kleenex
+food bag
+glue stick
+pen
+towel
+cup
+teal
+bowl
+ball
+tomato
+keyboard
+fruit
+box
+soda can
+marker
+apple
+cereal box
+toothpaste
+orange
+bag
+bulb box
+flashlight
+hand towel
+coffee mug
+tube
+pear
+peach
+bell pepper
+banana
+lemon
+vegetable
+food can
+paper
+binder
+can
